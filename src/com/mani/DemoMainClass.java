@@ -9,6 +9,8 @@ public class DemoMainClass {
 		System.out.println("Git Practice");
 		
 		System.out.println("Learning feature branch");
+
+		System.out.println("Added in remote repo");		
 	}
 
 }
